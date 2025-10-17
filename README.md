@@ -46,3 +46,36 @@ La app cuenta con una **pantalla principal (HomeActivity)**, desde donde se acce
 - **Animaciones:** transiciones suaves entre actividades.
 
 ---
+## Screenshots  y Gifs
+### 🟢 Intents Implícitos
+
+## /// Enviar Correo ///
+![Correo](https://github.com/user-attachments/assets/c7a88061-9acd-4245-9f7a-c12132517e90)
+
+## /// Añadir Contacto ///
+![añadir contacto](https://github.com/user-attachments/assets/ef8cbe29-b846-4836-a13c-e8b686c97042)
+
+## /// Abrir configuración Bluetooth ///
+![Gif_Bt](https://github.com/user-attachments/assets/1f8c9707-c3b8-472b-b19c-63bf3dc8d94e)
+
+
+## /// Seleccionar imagen de galería ///
+![Galeria abierta](https://github.com/user-attachments/assets/b28144fa-4260-4ce4-af01-fbb63376c727)
+
+### 🔵 Intents Explícitos
+
+## /// Detalle de ítem ///
+
+![Detalle item](https://github.com/user-attachments/assets/48fe0ff3-424c-41b7-a74e-74df3be33d60)
+
+## /// Abrir configuración con OverflowMenu y transición a la derecha e izquierda ///
+
+![Trahsiccioh](https://github.com/user-attachments/assets/59028fd2-b0af-4e07-b6dd-38cdc0a72ec5)
+
+
+
+
+
+
+
+
