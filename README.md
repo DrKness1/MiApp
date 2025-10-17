@@ -74,6 +74,13 @@ La app cuenta con una **pantalla principal (HomeActivity)**, desde donde se acce
 
 
 
+## // Explicación para compilar el apk de la aplicación //
+
+https://github.com/user-attachments/assets/9fba2fc1-20d5-4928-b8d9-70f72f299a7e
+
+
+
+
 
 
 
